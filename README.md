@@ -1,13 +1,13 @@
 # example-dockerization-fullstack-template
 
-#to run localy
-###root directory
+# to run localy
+### root directory
 -`docker-compose build`
 -`docker-compose up -d mongo`
 -`docker-compose up -d app`
 -`docker-compose up -d client`
 
-###to stop
+### to stop
 -`docker-compose down`
-or
+#### or
 -`docker-compose stor`
