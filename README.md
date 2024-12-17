@@ -7,7 +7,7 @@
 -`docker-compose up -d app`
 -`docker-compose up -d client`
 
-### to stop
+### to stop and remove containers
 -`docker-compose down`
-#### or
--`docker-compose stor`
+#### to stop
+-`docker-compose stop`
